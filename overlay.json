@@ -8,6 +8,14 @@
       ],
       "x": -315,
       "y": 754
+    },
+    {
+      "name": "TEST",
+      "sources": [
+        "https://i.imgur.com/4rGmBvk.png"
+      ],
+      "x": 0,
+      "y": 0
     }
   ],
   "whitelist": [],
